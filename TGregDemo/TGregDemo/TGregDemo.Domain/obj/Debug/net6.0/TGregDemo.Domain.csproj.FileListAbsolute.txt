@@ -1,0 +1,12 @@
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\bin\Debug\net6.0\TGregDemo.Domain.deps.json
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\bin\Debug\net6.0\TGregDemo.Domain.dll
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\bin\Debug\net6.0\TGregDemo.Domain.pdb
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\obj\Debug\net6.0\TGregDemo.Domain.csproj.AssemblyReference.cache
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\obj\Debug\net6.0\TGregDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\obj\Debug\net6.0\TGregDemo.Domain.AssemblyInfoInputs.cache
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\obj\Debug\net6.0\TGregDemo.Domain.AssemblyInfo.cs
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\obj\Debug\net6.0\TGregDemo.Domain.csproj.CoreCompileInputs.cache
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\obj\Debug\net6.0\TGregDemo.Domain.dll
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\obj\Debug\net6.0\refint\TGregDemo.Domain.dll
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\obj\Debug\net6.0\TGregDemo.Domain.pdb
+C:\DEV\Repos\TGregDemo\TGregDemo\TGregDemo.Domain\obj\Debug\net6.0\ref\TGregDemo.Domain.dll

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TGregDemo.Domain.Services/1.0.0": {
+        "dependencies": {
+          "TGregDemo.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "TGregDemo.Domain.Services.dll": {}
+        }
+      },
+      "TGregDemo.Domain/1.0.0": {
+        "runtime": {
+          "TGregDemo.Domain.dll": {}
+        }
+      },
+      "TGregDemo.Domain.Core/1.0.0": {
+        "dependencies": {
+          "TGregDemo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TGregDemo.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TGregDemo.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TGregDemo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TGregDemo.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
